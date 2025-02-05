@@ -18,7 +18,7 @@ With a strong foundation in **Laravel** and **React**, I develop robust applicat
 ### 🛠️ Tech Stack
 
 - **Frontend:** React.js, Next.js, React Native, JavaScript (ES6+), TypeScript  
-- **Backend:** PHP, Laravel, Node.js, REST APIs, GraphQL  
+- **Backend:** PHP, Laravel, Node.js, Express.js, REST APIs, GraphQL  
 - **Database:** MySQL, PostgreSQL, MongoDB  
 - **DevOps & Tools:** Docker, Git, GitHub Actions, CI/CD, Nginx, AWS  
 - **Others:** WebSockets, Pusher, Cloudinary, Firebase, JWT Authentication
@@ -36,17 +36,18 @@ With a strong foundation in **Laravel** and **React**, I develop robust applicat
 
 ### 📊 GitHub Stats
 
-![Ibrahim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ibrahimsarafadeen&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimsarafadeen&layout=compact&theme=tokyonight)
+![Ibrahim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IbrahimYemi&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IbrahimYemi&layout=compact&theme=tokyonight)
 
 ---
 
 ### 🤝 Let's Connect
 
-- **LinkedIn:** [linkedin.com/in/ibrahimsarafadeen](https://linkedin.com/in/ibrahimsarafadeen)  
-- **GitHub:** [github.com/ibrahimsarafadeen](https://github.com/ibrahimsarafadeen)  
-- **Twitter:** [@ibrahimsarafadn](https://twitter.com/ibrahimsarafadn)  
-- **Email:** ibrahim.sarafadeen@example.com
+- **LinkedIn:** [linkedin.com/in/ibrahimsarafadeen](http://www.linkedin.com/in/ibrahim-sarafadeen-opeyemi95/)  
+- **GitHub:** [github.com/IbrahimYemi](https://github.com/IbrahimYemi)  
+- **Twitter:** [@sharafa224](https://twitter.com/ibrahimsarafadn)  
+- **Portfolio:** [Ibrahim Yemi](https://ibrahimyemi.netlify.app/)  
+- **Email:** ibrahimsharafadeen95@gmail.com
 
 ---
 
