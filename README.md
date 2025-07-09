@@ -1,60 +1,86 @@
-# Hi there, I'm Ibrahim Sarafadeen Opeyemi! 👋
+# 👋 Hi, I'm Ibrahim Sarafadeen Opeyemi
 
-🚀 **Full-stack Software Engineer | Laravel & React Specialist | Tech Leader**  
+### 🚀 Full-Stack Software Engineer | Laravel & React Specialist | Node.js & MongoDB Pro | Technical Leader
 
----
-
-### 👨‍💻 About Me
-I'm a passionate, results-driven software engineer with extensive experience in full-stack development, project leadership, and building scalable applications. My journey has led me through roles like **CTO, Software Engineering Team Lead**, and **Full-stack Developer**, empowering businesses through technology.
-
-With a strong foundation in **Laravel** and **React**, I develop robust applications that prioritize clean code, performance, and user-centric design. I adhere to principles like **DRY**, **KISS**, and **SOLID** to maintain code quality and scalability.
-
-- 🔹 **Expertise:** Laravel, React, Docker, GraphQL, RESTful APIs, Real-time Applications
-- 🔹 **Leadership:** Team Management, Project Architecture, Technical Strategy
-- 🔹 **Focus:** Clean Code, Scalable Solutions, and Continuous Learning
+[![Hire Me](https://img.shields.io/badge/Hire%20Me-LinkedIn-blue?style=for-the-badge&logo=linkedin)](http://www.linkedin.com/in/ibrahim-sarafadeen-opeyemi95/)
+[![Portfolio](https://img.shields.io/badge/View%20Portfolio-Click%20Here-orange?style=for-the-badge&logo=react)](https://ibrahimyemi.netlify.app/)
+[![Resume](https://img.shields.io/badge/Download%20CV-PDF-red?style=for-the-badge&logo=adobeacrobatreader)](https://your-cv-link.com/Ibrahim-Sarafadeen-CV.pdf)
 
 ---
 
-### 🛠️ Tech Stack
+## 👨‍💻 About Me
 
-- **Frontend:** React.js, Next.js, React Native, JavaScript (ES6+), TypeScript  
-- **Backend:** PHP, Laravel, Node.js, Express.js, REST APIs, GraphQL  
-- **Database:** MySQL, PostgreSQL, MongoDB  
-- **DevOps & Tools:** Docker, Git, GitHub Actions, CI/CD, Nginx, AWS  
-- **Others:** WebSockets, Pusher, Cloudinary, Firebase, JWT Authentication
+I'm a **results-driven full-stack engineer** with a passion for shipping high-impact solutions. With years of experience in both startup and enterprise environments, I’ve held roles like **CTO**, **Tech Lead**, and **Senior Full-Stack Developer**, delivering mission-critical software with a focus on clean, scalable architecture.
+
+I specialize in building **robust web and mobile applications** using Laravel and React, with strong backend experience in **Node.js, Express.js**, and **MongoDB**. I bring a leadership mindset to teams and follow **DRY, KISS, and SOLID** principles to ensure code that lasts.
 
 ---
 
-### 🚀 Featured Projects
+## 🛠️ Tech Stack
 
-- **📚 Self-Paced Learning Platform:** Designed an LMS with enrollment management, real-time quizzes, certifications, and course analytics.
-- **💬 Real-time Messaging App:** A chat system with instant messaging, notifications, and WebSocket integration for seamless communication.
-- **🎥 Video Chat & Virtual Classrooms:** Built an interactive learning environment with live video conferencing, screen sharing, and real-time collaboration.
-- **📈 Admin Dashboard for Analytics:** Developed a dashboard with dynamic data visualization, user management, and performance metrics.
+**Frontend:**  
+React.js, Next.js, React Native, JavaScript (ES6+), TypeScript, Redux, TailwindCSS
+
+**Backend:**  
+PHP, Laravel, Node.js, Express.js, REST APIs, GraphQL, WebSockets
+
+**Databases:**  
+MySQL, PostgreSQL, MongoDB, Firebase (RTDB & Firestore)
+
+**DevOps & Tools:**  
+Docker, GitHub Actions, Git, Nginx, PM2, AWS (EC2, S3), DigitalOcean
+
+**Others:**  
+Cloudinary, Firebase Auth, JWT, OAuth2, WebSockets (Pusher, Laravel Echo, Socket.io)
 
 ---
 
-### 📊 GitHub Stats
+## 🚀 Featured Projects
+
+### 📚 Self-Paced Learning Platform
+> **Laravel + React + MySQL**  
+A full-featured LMS for online learning with modules, real-time quizzes, certificates, and personalized analytics.
+
+### 💬 Realtime Messaging App
+> **Node.js + Express + MongoDB + React Native**  
+Built an end-to-end chat system with typing indicators, unread counts, push notifications, and PWA compatibility.
+
+### 🎥 Video Chat & Virtual Classrooms
+> **Laravel + React + WebRTC + WebSockets**  
+Interactive platform with live video, whiteboards, class recordings, and permission-controlled screen sharing.
+
+### 📊 Admin Dashboard & Analytics
+> **Laravel + React + REST/GraphQL**  
+Dynamic dashboards with filters, charts, user metrics, and role-based access.
+
+---
+
+## 📊 GitHub Stats
 
 ![Ibrahim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IbrahimYemi&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IbrahimYemi&layout=compact&theme=tokyonight)
 
 ---
 
-### 🤝 Let's Connect
+## 🤝 Let’s Connect & Collaborate
 
-- **LinkedIn:** [linkedin.com/in/ibrahimsarafadeen](http://www.linkedin.com/in/ibrahim-sarafadeen-opeyemi95/)  
-- **GitHub:** [github.com/IbrahimYemi](https://github.com/IbrahimYemi)  
-- **Twitter:** [@sharafa224](https://twitter.com/ibrahimsarafadn)  
-- **Portfolio:** [Ibrahim Yemi](https://ibrahimyemi.netlify.app/)  
-- **Email:** ibrahimsharafadeen95@gmail.com
+- 💼 [LinkedIn](http://www.linkedin.com/in/ibrahim-sarafadeen-opeyemi95/)
+- 💻 [GitHub](https://github.com/IbrahimYemi)
+- 🌐 [Portfolio Website](https://ibrahimyemi.netlify.app/)
+- 📄 [Download Résumé (PDF)](https://docs.google.com/document/d/1aWr33zXchc5H-CMmFE_8FWNrguRr5IiFcoAlBumr_WE/edit?usp=drivesdk)
+- ✉️ Email: ibrahimsharafadeen95@gmail.com
+- 🐦 [Twitter](https://twitter.com/sharafa224)
 
 ---
 
-### 🧠 Fun Facts
+## 🧠 Fun Facts
 
-- I love solving complex problems and optimizing code for performance.
-- I enjoy mentoring junior developers and leading tech discussions.
-- Constantly learning new technologies to stay ahead in the tech world.
+- I lead teams with empathy and write code like I’ll maintain it forever.
+- I enjoy mentoring junior developers and organizing clean code reviews.
+- Passionate about learning: deep into **Docker, Microservices**, and **Clean Architecture**.
 
-Thanks for stopping by! ⭐
+---
+
+> _"I don't just build apps — I build systems that scale, adapt, and deliver value."_ 🚀
+
+---
