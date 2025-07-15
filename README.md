@@ -19,7 +19,7 @@ I specialize in building **robust web and mobile applications** using Laravel an
 ## 🛠️ Tech Stack
 
 **Frontend:**  
-React.js, Next.js, React Native, JavaScript (ES6+), TypeScript, Redux, TailwindCSS
+React.js, Next.js, JavaScript (ES6+), TypeScript, Redux, TailwindCSS, BootStrap, React Query, Motion Js, GSAP, 
 
 **Backend:**  
 PHP, Laravel, Node.js, Express.js, REST APIs, GraphQL, WebSockets
