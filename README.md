@@ -4,7 +4,7 @@
 
 [![Hire Me](https://img.shields.io/badge/Hire%20Me-LinkedIn-blue?style=for-the-badge&logo=linkedin)](http://www.linkedin.com/in/ibrahim-sarafadeen-opeyemi95/)
 [![Portfolio](https://img.shields.io/badge/View%20Portfolio-Click%20Here-orange?style=for-the-badge&logo=react)](https://ibrahimyemi.netlify.app/)
-[![Resume](https://img.shields.io/badge/Download%20CV-PDF-red?style=for-the-badge&logo=adobeacrobatreader)][(https://your-cv-link.com/Ibrahim-Sarafadeen-CV.pdf](https://docs.google.com/document/d/1aWr33zXchc5H-CMmFE_8FWNrguRr5IiFcoAlBumr_WE/edit?usp=drivesdk))
+[![Resume](https://img.shields.io/badge/Download%20CV-PDF-red?style=for-the-badge&logo=adobeacrobatreader)](https://docs.google.com/document/d/1aWr33zXchc5H-CMmFE_8FWNrguRr5IiFcoAlBumr_WE/edit?usp=drivesdk)
 
 ---
 
