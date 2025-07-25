@@ -3,7 +3,7 @@
 ### 🚀 Full-Stack Software Engineer | Laravel & React Specialist | Node.js & MongoDB Pro | Technical Leader
 
 [![Hire Me](https://img.shields.io/badge/Hire%20Me-LinkedIn-blue?style=for-the-badge&logo=linkedin)](http://www.linkedin.com/in/ibrahim-sarafadeen-opeyemi95/)
-[![Portfolio](https://img.shields.io/badge/View%20Portfolio-Click%20Here-orange?style=for-the-badge&logo=react)](https://ibrahimyemi.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/View%20Portfolio-Click%20Here-orange?style=for-the-badge&logo=react)](https://www.ibrahimyemi.info)
 [![Resume](https://img.shields.io/badge/Download%20CV-PDF-red?style=for-the-badge&logo=adobeacrobatreader)](https://docs.google.com/document/d/1aWr33zXchc5H-CMmFE_8FWNrguRr5IiFcoAlBumr_WE/edit?usp=drivesdk)
 
 ---
@@ -66,7 +66,7 @@ Dynamic dashboards with filters, charts, user metrics, and role-based access.
 
 - 💼 [LinkedIn](http://www.linkedin.com/in/ibrahim-sarafadeen-opeyemi95/)
 - 💻 [GitHub](https://github.com/IbrahimYemi)
-- 🌐 [Portfolio Website](https://ibrahimyemi.netlify.app/)
+- 🌐 [Portfolio Website](https://www.ibrahimyemi.info/)
 - 📄 [Download Résumé (PDF)](https://docs.google.com/document/d/1aWr33zXchc5H-CMmFE_8FWNrguRr5IiFcoAlBumr_WE/edit?usp=drivesdk)
 - ✉️ Email: ibrahimsharafadeen95@gmail.com
 - 🐦 [Twitter](https://twitter.com/sharafa224)
