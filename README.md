@@ -64,12 +64,6 @@ Dynamic dashboards with real-time metrics, microservice integration, and role-ba
 
 ---
 
-## 📊 GitHub Stats
-![Ibrahim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IbrahimYemi&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IbrahimYemi&layout=compact&theme=tokyonight)
-
----
-
 ## 🤝 Connect & Collaborate
 
 * 💼 [LinkedIn](http://www.linkedin.com/in/ibrahim-sarafadeen-opeyemi95/)
