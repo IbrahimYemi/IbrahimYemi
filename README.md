@@ -1,86 +1,90 @@
 # 👋 Hi, I'm Ibrahim Sarafadeen Opeyemi
 
-### 🚀 Full-Stack Software Engineer | Laravel & React Specialist | Node.js & MongoDB Pro | Technical Leader
+### 🚀 Senior System Architect & Full-Stack Engineer | Rust, Java, Spring Boot, Laravel, React | Microservices, Kafka, Event-Driven Systems | CTO & Tech Leader
 
-[![Hire Me](https://img.shields.io/badge/Hire%20Me-LinkedIn-blue?style=for-the-badge&logo=linkedin)](http://www.linkedin.com/in/ibrahim-sarafadeen-opeyemi95/)
-[![Portfolio](https://img.shields.io/badge/View%20Portfolio-Click%20Here-orange?style=for-the-badge&logo=react)](https://www.ibrahimyemi.info)
-[![Resume](https://img.shields.io/badge/Download%20CV-PDF-red?style=for-the-badge&logo=adobeacrobatreader)](https://docs.google.com/document/d/1aWr33zXchc5H-CMmFE_8FWNrguRr5IiFcoAlBumr_WE/edit?usp=drivesdk)
+[![Hire Me](https://img.shields.io/badge/Hire%20Me-LinkedIn-blue?style=for-the-badge\&logo=linkedin)](http://www.linkedin.com/in/ibrahim-sarafadeen-opeyemi95/)
+[![Portfolio](https://img.shields.io/badge/View%20Portfolio-Click%20Here-orange?style=for-the-badge\&logo=react)](https://www.ibrahimyemi.info)
+[![Resume](https://img.shields.io/badge/Download%20CV-PDF-red?style=for-the-badge\&logo=adobeacrobatreader)](https://docs.google.com/document/d/1aWr33zXchc5H-CMmFE_8FWNrguRr5IiFcoAlBumr_WE/edit?usp=drivesdk)
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a **results-driven full-stack engineer** with a passion for shipping high-impact solutions. With years of experience in both startup and enterprise environments, I’ve held roles like **CTO**, **Tech Lead**, and **Senior Full-Stack Developer**, delivering mission-critical software with a focus on clean, scalable architecture.
+I am a **results-driven Senior System Architect and Full-Stack Engineer** with deep expertise in designing and building **highly scalable, resilient, and enterprise-grade systems**. Over the years, I’ve led technical teams as **CTO, Tech Lead, and Product Lead**, delivering mission-critical applications across **startup and enterprise environments**.
 
-I specialize in building **robust web and mobile applications** using Laravel and React, with strong backend experience in **Node.js, Express.js**, and **MongoDB**. I bring a leadership mindset to teams and follow **DRY, KISS, and SOLID** principles to ensure code that lasts.
+I specialize in architecting **microservices, event-driven systems, and distributed architectures** using **Java/Spring Boot, Laravel, and Node.js**, with strong front-end capabilities in **React and TypeScript**. My focus is on **scalable systems, clean architecture, and high-quality code**, adhering to **SOLID principles, KISS, and DRY** patterns.
+
+I combine **hands-on engineering** with **strategic tech leadership**, mentoring teams, reviewing architecture, and ensuring software aligns with business goals.
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Frontend:**  
-React.js, Next.js, JavaScript (ES6+), TypeScript, Redux, TailwindCSS, BootStrap, React Query, Motion Js, GSAP, 
+**Frontend:**
+React.js, Next.js, TypeScript, Redux, TailwindCSS, Motion JS, GSAP
 
-**Backend:**  
-PHP, Laravel, Node.js, Express.js, REST APIs, GraphQL, WebSockets
+**Backend & Systems:**
+Rust, Java/Spring Boot, PHP/Laravel, Node.js/Express.js, REST APIs, GraphQL, WebSockets
 
-**Databases:**  
-MySQL, PostgreSQL, MongoDB, Firebase (RTDB & Firestore)
+**Microservices & Messaging:**
+Kafka, RabbitMQ, Event-Driven Architecture, Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS)
 
-**DevOps & Tools:**  
-Docker, GitHub Actions, Git, Nginx, PM2, AWS (EC2, S3), DigitalOcean
+**Databases & Storage:**
+PostgreSQL, MySQL, MongoDB, Redis, Firebase, S3, Cloudinary
 
-**Others:**  
-Cloudinary, Firebase Auth, JWT, OAuth2, WebSockets (Pusher, Laravel Echo, Socket.io)
+**DevOps & Tools:**
+Docker, Docker Compose, GitHub Actions, Git, Nginx, PM2, AWS (EC2, S3, RDS), DigitalOcean
+
+**Authentication & Security:**
+JWT, OAuth2, Firebase Auth, Role-Based Access Control, Attribute-Based Access Control
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Key Projects & Systems
 
 ### 📚 Self-Paced Learning Platform
-> **Laravel + React + MySQL**  
-A full-featured LMS for online learning with modules, real-time quizzes, certificates, and personalized analytics.
 
-### 💬 Realtime Messaging App
-> **Node.js + Express + MongoDB + React Native**  
-Built an end-to-end chat system with typing indicators, unread counts, push notifications, and PWA compatibility.
+**Stack:** Laravel + React + MySQL + Microservices
+Enterprise-grade LMS with modules, quizzes, certificates, real-time analytics, and event-driven notifications.
+
+### 💬 Real-Time Messaging Platform
+
+**Stack:** Node.js + Express + MongoDB + React Native + WebSockets
+Fully asynchronous messaging system with typing indicators, unread counts, push notifications, and cross-platform support.
 
 ### 🎥 Video Chat & Virtual Classrooms
-> **Laravel + React + WebRTC + WebSockets**  
-Interactive platform with live video, whiteboards, class recordings, and permission-controlled screen sharing.
 
-### 📊 Admin Dashboard & Analytics
-> **Laravel + React + REST/GraphQL**  
-Dynamic dashboards with filters, charts, user metrics, and role-based access.
+**Stack:** Laravel + React + WebRTC + WebSockets
+Interactive video platform with live streaming, whiteboards, permission-based screen sharing, and session recording.
+
+### 📊 Enterprise Dashboard & Analytics
+
+**Stack:** Laravel + React + REST/GraphQL + Kafka
+Dynamic dashboards with real-time metrics, microservice integration, and role-based analytics for large-scale systems.
 
 ---
 
 ## 📊 GitHub Stats
-
 ![Ibrahim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IbrahimYemi&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IbrahimYemi&layout=compact&theme=tokyonight)
 
 ---
 
-## 🤝 Let’s Connect & Collaborate
+## 🤝 Connect & Collaborate
 
-- 💼 [LinkedIn](http://www.linkedin.com/in/ibrahim-sarafadeen-opeyemi95/)
-- 💻 [GitHub](https://github.com/IbrahimYemi)
-- 🌐 [Portfolio Website](https://www.ibrahimyemi.info/)
-- 📄 [Download Résumé (PDF)](https://docs.google.com/document/d/1aWr33zXchc5H-CMmFE_8FWNrguRr5IiFcoAlBumr_WE/edit?usp=drivesdk)
-- ✉️ Email: ibrahimsharafadeen95@gmail.com
-- 🐦 [Twitter](https://twitter.com/sharafa224)
-
----
-
-## 🧠 Fun Facts
-
-- I lead teams with empathy and write code like I’ll maintain it forever.
-- I enjoy mentoring junior developers and organizing clean code reviews.
-- Passionate about learning: deep into **Docker, Microservices**, and **Clean Architecture**.
+* 💼 [LinkedIn](http://www.linkedin.com/in/ibrahim-sarafadeen-opeyemi95/)
+* 💻 [GitHub](https://github.com/IbrahimYemi)
+* 🌐 [Portfolio Website](https://www.ibrahimyemi.info/)
+* 📄 [Résumé (PDF)](https://docs.google.com/document/d/1aWr33zXchc5H-CMmFE_8FWNrguRr5IiFcoAlBumr_WE/edit?usp=drivesdk)
+* ✉️ Email: [ibrahimsharafadeen95@gmail.com](mailto:ibrahimsharafadeen95@gmail.com)
+* 🐦 [Twitter](https://twitter.com/sharafa224)
 
 ---
 
-> _"I don't just build apps — I build systems that scale, adapt, and deliver value."_ 🚀
+## 🧠 Fun Facts & Philosophy
 
----
+* I design **systems, not just apps**, prioritizing scalability, reliability, and maintainability.
+* Passionate about **mentorship**, clean code reviews, and building high-performing engineering teams.
+* Deep interest in **microservices, event-driven architectures, Rust, Java, and high-performance backend systems**.
+
+> *"I build systems that scale, adapt, and deliver strategic impact."* 🚀
