@@ -40,30 +40,6 @@ JWT, OAuth2, Firebase Auth, Role-Based Access Control, Attribute-Based Access Co
 
 ---
 
-## 🚀 Key Projects & Systems
-
-### 📚 Self-Paced Learning Platform
-
-**Stack:** Laravel + React + MySQL + Microservices
-Enterprise-grade LMS with modules, quizzes, certificates, real-time analytics, and event-driven notifications.
-
-### 💬 Real-Time Messaging Platform
-
-**Stack:** Node.js + Express + MongoDB + React Native + WebSockets
-Fully asynchronous messaging system with typing indicators, unread counts, push notifications, and cross-platform support.
-
-### 🎥 Video Chat & Virtual Classrooms
-
-**Stack:** Laravel + React + WebRTC + WebSockets
-Interactive video platform with live streaming, whiteboards, permission-based screen sharing, and session recording.
-
-### 📊 Enterprise Dashboard & Analytics
-
-**Stack:** Laravel + React + REST/GraphQL + Kafka
-Dynamic dashboards with real-time metrics, microservice integration, and role-based analytics for large-scale systems.
-
----
-
 ## 🤝 Connect & Collaborate
 
 * 💼 [LinkedIn](http://www.linkedin.com/in/ibrahim-sarafadeen-opeyemi95/)
