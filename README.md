@@ -4,7 +4,7 @@
 
 [![Hire Me](https://img.shields.io/badge/Hire%20Me-LinkedIn-blue?style=for-the-badge\&logo=linkedin)](http://www.linkedin.com/in/ibrahim-sarafadeen-opeyemi95/)
 [![Portfolio](https://img.shields.io/badge/View%20Portfolio-Click%20Here-orange?style=for-the-badge\&logo=react)](https://www.ibrahimyemi.info)
-[![Resume](https://img.shields.io/badge/Download%20CV-PDF-red?style=for-the-badge\&logo=adobeacrobatreader)](https://docs.google.com/document/d/1aWr33zXchc5H-CMmFE_8FWNrguRr5IiFcoAlBumr_WE/edit?usp=drivesdk)
+[![Resume](https://img.shields.io/badge/Download%20CV-PDF-red?style=for-the-badge\&logo=adobeacrobatreader)](https://docs.google.com/document/d/1SO_uGhD6jvD6Hinm_ds7uZXPRkRbqjC-uJ-6nGeeoHg/edit?usp=sharing)
 
 ---
 
@@ -45,7 +45,7 @@ JWT, OAuth2, Firebase Auth, Role-Based Access Control, Attribute-Based Access Co
 * 💼 [LinkedIn](http://www.linkedin.com/in/ibrahim-sarafadeen-opeyemi95/)
 * 💻 [GitHub](https://github.com/IbrahimYemi)
 * 🌐 [Portfolio Website](https://www.ibrahimyemi.info/)
-* 📄 [Résumé (PDF)](https://docs.google.com/document/d/1aWr33zXchc5H-CMmFE_8FWNrguRr5IiFcoAlBumr_WE/edit?usp=drivesdk)
+* 📄 [Résumé (PDF)](https://docs.google.com/document/d/1SO_uGhD6jvD6Hinm_ds7uZXPRkRbqjC-uJ-6nGeeoHg/edit?usp=sharing)
 * ✉️ Email: [ibrahimsharafadeen95@gmail.com](mailto:ibrahimsharafadeen95@gmail.com)
 * 🐦 [Twitter](https://twitter.com/sharafa224)
 
